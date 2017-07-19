@@ -30,6 +30,8 @@ html {
 #site_header {
   background-color: #ff8523;
   padding-bottom: 40px;
+  padding-left: 20px;
+  padding-top: 20px;
 }
 h1, h2 {
   color: #1fabe5;
