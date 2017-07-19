@@ -51,3 +51,7 @@ h1, h2 {
   animation-name: buttonanimation;
   animation-duration: 1s;
 }
+table {
+  border: 1px solid #1fabe5;
+  display: inline-table;
+}
