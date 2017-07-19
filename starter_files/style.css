@@ -12,6 +12,9 @@ colors:
     blue - #1fabe5
     dark blue - #046c97
 */
+html {
+  border: 1px solid #ffd24a;
+}
 #fullpage {
   margin-left: 5%;
   margin-right: 5%;
