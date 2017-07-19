@@ -57,3 +57,11 @@ table {
   border: 1px solid #1fabe5;
   display: inline-table;
 }
+.formblock {
+  background-color: #eee;
+  border-radius: 20px;
+}
+.name {
+  background-color: #ff8523;
+  border-radius: 20px;
+}
