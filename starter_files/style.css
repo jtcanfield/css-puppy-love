@@ -70,7 +70,7 @@ table {
 .city_container,.bioclass {
   padding: 10px;
 }
-.submit_container {
+#submit_button {
   background-color: #1fabe5;
   border: 1px solid rgb(255, 255, 255);
   border-radius: 3px;
@@ -79,6 +79,9 @@ table {
   padding: 7px;
   text-decoration: none;
   text-transform: uppercase;
+}
+#first_name, #last_name {
+
 }
 section {
   margin: 0px 20px 60px 20px;
