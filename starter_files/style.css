@@ -104,3 +104,10 @@ li {
   border: 1px solid #046c97;
   background-color: #1fabe5;
 }
+#tableheader td{
+  padding: 10px;
+  border: 1px solid #046c97;
+}
+tbody td {
+  border: 1px solid #046c97;
+}
