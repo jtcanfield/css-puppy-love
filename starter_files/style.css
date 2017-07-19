@@ -54,7 +54,7 @@ h1, h2 {
   animation-duration: 1s;
 }
 table {
-  border: 1px solid #1fabe5;
+  border: 1px solid #046c97;
   display: inline-table;
 }
 .formblock {
@@ -99,4 +99,8 @@ label[for="bio"]{
 }
 li {
   font-weight: 600;
+}
+#tableheader{
+  border: 1px solid #046c97;
+  background-color: #1fabe5;
 }
