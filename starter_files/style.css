@@ -60,11 +60,13 @@ table {
 .formblock {
   background-color: #eee;
   border-radius: 20px;
+  padding: 15px;
 }
 .name {
   background-color: #ff8523;
-  border-radius: 20px;
+  border-radius: 10px;
+  padding: 10px;
 }
 section {
-  margin: 10px 10px;
+  margin: 0px 20px 60px 20px;
 }
