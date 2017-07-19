@@ -67,8 +67,18 @@ table {
   border-radius: 10px;
   padding: 20px;
 }
-.city_container,.bioclass,.submit_container {
-  padding: 20px;
+.city_container,.bioclass {
+  padding: 10px;
+}
+.submit_container {
+  background-color: #1fabe5;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 3px;
+  color: #FFF;
+  margin: 10px 10px;
+  padding: 7px;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 section {
   margin: 0px 20px 60px 20px;
