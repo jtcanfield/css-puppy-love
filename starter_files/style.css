@@ -24,3 +24,17 @@ colors:
 h1, h2 {
   color: #1fabe5;
 }
+.main_navigation a {
+  background: #ff8523;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 3px;
+  color: #FFF;
+  /*display: inline-block;*/
+  margin: 10px 10px;
+  padding: 14px;
+  text-decoration: none;
+}
+.main_navigation a:hover {
+  background: rgb(0, 0, 0);
+  color: #FFF;
+}
