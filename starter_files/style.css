@@ -83,7 +83,7 @@ table {
 #first_name, #last_name {
   padding: 7px;
   border-style: none;
-  width: 25%;
+  width: 30%;
 }
 #bio {
   width: 100%;
@@ -95,5 +95,8 @@ label[for="city"]{
   font-weight: 600;
 }
 label[for="bio"]{
+  font-weight: 600;
+}
+li {
   font-weight: 600;
 }
