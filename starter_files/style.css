@@ -12,3 +12,15 @@ colors:
     blue - #1fabe5
     dark blue - #046c97
 */
+#fullpage {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+#site_header {
+  background-color: #ff8523;
+}
+h1, h2 {
+  color: #1fabe5;
+}
