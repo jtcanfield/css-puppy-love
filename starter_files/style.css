@@ -84,6 +84,9 @@ table {
   padding: 7px;
   border-style: none;
 }
+#bio {
+  width: 100%;
+}
 section {
   margin: 0px 20px 60px 20px;
 }
