@@ -60,6 +60,7 @@ table {
   border: 1px solid #046c97;
   display: inline-table;
   border-spacing: 0px;
+  width: 100%;
 }
 .formblock {
   background-color: #eee;
