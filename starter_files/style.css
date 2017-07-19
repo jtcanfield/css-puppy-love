@@ -83,6 +83,7 @@ table {
 #first_name, #last_name {
   padding: 7px;
   border-style: none;
+  width: 25%;
 }
 #bio {
   width: 100%;
