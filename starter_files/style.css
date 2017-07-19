@@ -72,16 +72,15 @@ table {
 }
 #submit_button {
   background-color: #1fabe5;
-  border: 1px solid rgb(255, 255, 255);
   border-radius: 3px;
   color: #FFF;
   margin: 10px 10px;
-  padding: 7px;
+  padding: 10px;
   text-decoration: none;
   text-transform: uppercase;
 }
 #first_name, #last_name {
-
+  border-style: none;
 }
 section {
   margin: 0px 20px 60px 20px;
