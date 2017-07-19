@@ -70,3 +70,9 @@ table {
 section {
   margin: 0px 20px 60px 20px;
 }
+label[for="city"]{
+  font-weight: 600;
+}
+label[for="bio"]{
+  font-weight: 600;
+}
