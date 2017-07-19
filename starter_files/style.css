@@ -73,8 +73,11 @@ table {
   padding: 20px;
   color: #fff;
 }
-.city_container,.bioclass {
-  padding: 10px;
+.city_container {
+  padding: 20px 10px 0px 10px;
+}
+.bioclass {
+  padding: 5px 10px 10px 10px;
 }
 #submit_button {
   background-color: #1fabe5;
@@ -102,9 +105,9 @@ section {
 label[for="city"]{
   font-weight: 600;
 }
-label[for="bio"]{
+label[for="bio"] {
   font-weight: 600;
-  padding-bottom: 10px
+  line-height: 3;
 }
 li {
   font-weight: 600;
