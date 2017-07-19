@@ -65,7 +65,10 @@ table {
 .name {
   background-color: #ff8523;
   border-radius: 10px;
-  padding: 10px;
+  padding: 20px;
+}
+.city_container,.bioclass,.submit_container {
+  padding: 20px;
 }
 section {
   margin: 0px 20px 60px 20px;
