@@ -80,9 +80,11 @@ table {
   border-radius: 3px;
   color: #FFF;
   margin: 10px 10px;
-  padding: 10px;
+  padding: 15px;
   text-decoration: none;
   text-transform: uppercase;
+  border: 0px solid #fff;
+  font-weight: 600;
 }
 #first_name, #last_name {
   padding: 7px;
