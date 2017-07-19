@@ -5,7 +5,7 @@ font info:
 
 
 colors:
-    light gray - ##eee
+    light gray - #eee
     gray - #dddddd
     yellow - #ffd24a
     orange - #ff8523
@@ -17,13 +17,15 @@ colors:
   line-height: : 1.6;
 }
 html {
-  border: 1px solid #ffd24a;
+  background-color: #eee;
 }
 #fullpage {
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 2%;
   margin-bottom: 2%;
+  background-color: #fff;
+  border: 1px solid #ffd24a;
 }
 #site_header {
   background-color: #ff8523;
