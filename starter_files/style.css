@@ -1,17 +1,3 @@
-/*
-font info:
-    family - Helvetica, Arial, sans-serif
-    line-height - 1.6
-
-
-colors:
-    light gray - #eee
-    gray - #dddddd
-    yellow - #ffd24a
-    orange - #ff8523
-    blue - #1fabe5
-    dark blue - #046c97
-*/
 * {
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.6;
@@ -99,7 +85,8 @@ table {
 }
 #bio {
   width: 100%;
-  font-weight: 600;
+  font: 14px system-ui;
+  padding: 5px 0px 0px 5px;
 }
 section {
   margin: 0px 20px 60px 20px;
