@@ -66,6 +66,7 @@ table {
   background-color: #ff8523;
   border-radius: 10px;
   padding: 20px;
+  color: #fff;
 }
 .city_container,.bioclass {
   padding: 10px;
@@ -80,6 +81,7 @@ table {
   text-transform: uppercase;
 }
 #first_name, #last_name {
+  padding: 7px;
   border-style: none;
 }
 section {
