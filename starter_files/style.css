@@ -49,6 +49,7 @@ table {
   display: inline-table;
   border-spacing: 0px;
   width: 100%;
+  text-align: center;
 }
 .formblock {
   background-color: #eee;
